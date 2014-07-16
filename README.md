@@ -1,7 +1,7 @@
 DogePlasmaChart
 ===============
 
-KDE Plasma Dogecoin exchange rate chart plasmoid
+KDE Plasma Dogecoin exchange rate chart plasmoid.
 Tested on KDE 4.1.15 and Linux Mint 16 
 
 This is my first KDE Plasma plasmoid and my first github commit. 
