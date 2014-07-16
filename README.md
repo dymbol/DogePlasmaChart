@@ -2,7 +2,9 @@ DogePlasmaChart
 ===============
 
 KDE Plasma Dogecoin exchange rate chart plasmoid.
+doge-engine.plasmoid uses Cryptsy API (https://www.cryptsy.com) and get last trade value.
 Tested on KDE 4.1.15 and Linux Mint 16 
+
 
 This is my first KDE Plasma plasmoid and my first github commit. 
 Hope you'l enjoy :)
